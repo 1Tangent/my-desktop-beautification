@@ -1,0 +1,34 @@
+Changelog
+------------------------------
+Shelyak - Conky Theme
+[ Leonis Themes Pack ] 
+
+by Closebox73
+------------------------------
+
+v1.0
+date : 25 May 2022
+-	Initial release
+
+
+v1.3
+date : 04 Jan 2023
+-	Add override_utf8_locale line 
+-	Little extra line in script
+-	Add Changelog file
+
+
+v2.0
+date : 02 Apr 2023
+-	New weather.sh
+-	Add License
+-	Add Playerctl variant
+-	Add Fahrenheit variant
+
+
+v2.3
+date : 04 Nov 2023
+-	Some minor change
+-	Add Playerctl variant for Shelyak Light 
+-	Add Fahrenheit variant for Shelyak Light 
+-	Little extra line in script
