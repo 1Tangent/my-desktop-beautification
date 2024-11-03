@@ -94,6 +94,4 @@ sh start.sh
 sudo apt-get install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-更多终端美化建议去github搜索oh-my-zsh# my-desktop-beautification
-# my-desktop-beautification
-# my-desktop-beautification
+更多终端美化建议去github搜索oh-my-zsh
