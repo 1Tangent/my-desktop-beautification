@@ -96,3 +96,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 更多终端美化建议去github搜索oh-my-zsh# my-desktop-beautification
 # my-desktop-beautification
+# my-desktop-beautification
